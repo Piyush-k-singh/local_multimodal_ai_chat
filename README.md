@@ -9,6 +9,8 @@ I'm really open to pull requests. Whether you have ideas for new features, ways 
 
 So, if you're interested in AI chat applications and want to dive into how they're built, join in. Your code and ideas can help make this project better for everyone who wants to learn more about building with AI.
 
+## For Models downloads 
+git clone and create one models folder 
 ## Features
 
 - **Quantized Model Integration**: This app uses what are called "quantized models." These are special because they are designed to work well on regular consumer hardware, like the kind most of us have at home or in our offices. Normally, the original versions of these models are really big and need more powerful computers to run them. But quantized models are optimized to be smaller and more efficient, without losing much performance. This means you can use this app and its features without needing a super powerful computer. [Quantized Models from TheBloke](https://huggingface.co/TheBloke)
